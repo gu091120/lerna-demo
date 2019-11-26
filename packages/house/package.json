@@ -1,5 +1,5 @@
 {
-  "name": "window",
+  "name": "house",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "window": "^0.0.1"
+  }
 }
